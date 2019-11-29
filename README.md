@@ -1,6 +1,6 @@
 # Tarea Peón Ajedrez
 ## Profesor: Andrés Rubio del Río
-## Alumno: Jesús Garcimartín BerbeL
+## Alumno: Jesús Garcimartín Berbel
 
 La tarea va a consistir en modelar el movimiento de un peón de ajedrez por el tablero de dicho juego.
 <div align="center">
